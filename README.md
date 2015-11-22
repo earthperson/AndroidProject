@@ -1,4 +1,0 @@
-AndroidProject
-==============
-
-Building First App
