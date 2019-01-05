@@ -1,3 +1,11 @@
+## Разное
+* Код для инженерного меню *#*#7378423#*#*
+* Для просмотра серийного номера наберите *#06#
+* [Google USB Driver](http://developer.android.com/sdk/win-usb.html)
+* [Rooting](http://talk.sonymobile.com/t5/Xperia-go/4-Steps-Rooting-for-Xperia-Go-JB-6-2-A-1-100-from-DooMLoRD-of/td-p/333634)
+* [Reverse Tethering](http://forum.xda-developers.com/showthread.php?t=1371345)
+
+## Список приложений
 * [ВКонтакте — социальная сеть](https://play.google.com/store/apps/details?id=com.vkontakte.android) 
 * [Домашняя правовая энциклопедия](https://play.google.com/store/apps/details?id=garantdpi.ru)
 * [Карты: навигация и общественный транспорт](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
