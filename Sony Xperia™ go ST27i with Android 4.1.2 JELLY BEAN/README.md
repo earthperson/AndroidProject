@@ -65,3 +65,6 @@
 * [OpenKeychain: Easy PGP](https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain)
 * [TunnelBear VPN](https://play.google.com/store/apps/details?id=com.tunnelbear.android)
 
+## P. S.
+Чтобы смартфон не зависал полезно, чтобы были запущены только нужные в данный момент приложения, а остальные остановлены.
+
