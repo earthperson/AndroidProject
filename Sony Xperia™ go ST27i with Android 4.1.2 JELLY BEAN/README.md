@@ -19,4 +19,12 @@
 * [Smart Connect](https://play.google.com/store/apps/details?id=com.sonyericsson.extras.liveware)
 * [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 * [Синтезатор речи Google](https://play.google.com/store/apps/details?id=com.google.android.tts)
-
+* [Яндекс.Ключ — ваши пароли](https://play.google.com/store/apps/details?id=ru.yandex.key)
+* [Яндекс.Транспорт](https://play.google.com/store/apps/details?id=ru.yandex.yandexbus)
+* [Android Accessibility Suite](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback)
+* [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox)
+* [Google Новости](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines)
+* [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
+* [Google PDF Viewer](https://play.google.com/store/apps/details?id=com.google.android.apps.pdfviewer)
+* [Google Play Книги](https://play.google.com/store/apps/details?id=com.google.android.apps.books)
+* [Google Play Фильмы](https://play.google.com/store/apps/details?id=com.google.android.videos)
