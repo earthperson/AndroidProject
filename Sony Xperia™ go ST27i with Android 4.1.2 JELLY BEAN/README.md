@@ -11,3 +11,12 @@
 * [Compass](https://play.google.com/store/apps/details?id=com.apksoftware.compass)
 * [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)
 * [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
+* [Google Переводчик](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
+* [Google Просмотр улиц](https://play.google.com/store/apps/details?id=com.google.android.street)
+* [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
+* [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass)
+* [QR Droid Code Scanner](https://play.google.com/store/apps/details?id=la.droid.qr)
+* [Smart Connect](https://play.google.com/store/apps/details?id=com.sonyericsson.extras.liveware)
+* [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
+* [Синтезатор речи Google](https://play.google.com/store/apps/details?id=com.google.android.tts)
+
