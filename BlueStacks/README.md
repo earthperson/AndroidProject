@@ -1,4 +1,13 @@
 ## Список приложений
+* [Кинотеатры](https://play.google.com/store/apps/details?id=ru.rambler.kinoteatr)
+* [Мираж Синема](https://play.google.com/store/apps/details?id=ru.mirage.app)
+* [Speedtest.net](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)
+* [Агент: видеочат, видеозвонки, бесплатные сообщения](https://play.google.com/store/apps/details?id=ru.mail)
+* [КиноПоиск: билеты в кино, фильмы и сериалы онлайн](https://play.google.com/store/apps/details?id=ru.kinopoisk)
+* [Мой Дом.ru](https://play.google.com/store/apps/details?id=com.ertelecom.agent)
+* [Госуслуги](https://play.google.com/store/apps/details?id=ru.rostel)
+* [Ingress Prime](https://play.google.com/store/apps/details?id=com.nianticproject.ingress)
+* [Яндекс.Авиабилеты — дешевые билеты на самолет](https://play.google.com/store/apps/details?id=ru.yandex.mobile.avia)
 * [Петербургское такси 068](https://play.google.com/store/apps/details?id=ru.taxi068)
 * [Ситимобил – заказ такси](https://play.google.com/store/apps/details?id=com.citymobil)
 * [Uber – лучше, чем такси](https://play.google.com/store/apps/details?id=com.ubercab)
