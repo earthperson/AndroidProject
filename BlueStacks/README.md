@@ -1,4 +1,8 @@
 ## Список приложений
+* [Работа в России](https://play.google.com/store/apps/details?id=ru.trudvsem)
+* [Работа.ру: Вакансии рядом с домом и поиск работы](https://play.google.com/store/apps/details?id=ru.rabota.app2)
+* [Поиск работы на hh. Вакансии рядом с домом](https://play.google.com/store/apps/details?id=ru.hh.android)
+* [Яндекс.Работа — вакансии](https://play.google.com/store/apps/details?id=com.yandex.mobile.job)
 * [WebMoney Keeper](https://play.google.com/store/apps/details?id=com.webmoney.my)
 * [PayPal](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)
 * [PlayPartner: интим бутик](https://play.google.com/store/apps/details?id=ru.ppimshop.exo)
