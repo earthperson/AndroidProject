@@ -1,4 +1,6 @@
 ## Список приложений
+* [WebMoney Keeper](https://play.google.com/store/apps/details?id=com.webmoney.my)
+* [PayPal](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)
 * [PlayPartner: интим бутик](https://play.google.com/store/apps/details?id=ru.ppimshop.exo)
 * [Авито: авто, квартиры, услуги, работа, резюме](https://play.google.com/store/apps/details?id=com.avito.android)
 * [Знакомства Love.ru - сайт знакомств бесплатно](https://play.google.com/store/apps/details?id=com.dating.mylove)
