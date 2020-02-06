@@ -18,6 +18,7 @@
 * [Google Play Книги](https://play.google.com/store/apps/details?id=com.google.android.apps.books)
 * [Google Play Музыка](https://play.google.com/store/apps/details?id=com.google.android.music)
 * [Google Play Фильмы](https://play.google.com/store/apps/details?id=com.google.android.videos)
+* [Google Календарь](https://play.google.com/store/apps/details?id=com.google.android.calendar)
 * [Google Новости](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines)
 * [Google Переводчик](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 * [Google Просмотр улиц](https://play.google.com/store/apps/details?id=com.google.android.street)
