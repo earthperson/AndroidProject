@@ -1,4 +1,5 @@
 ## Список приложений
+* [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community)
 * [IMDb Movies & TV Shows: Trailers, Reviews, Tickets](https://play.google.com/store/apps/details?id=com.imdb.mobile)
 * [Яндекс.Музыка и подкасты – скачивайте и слушайте](https://play.google.com/store/apps/details?id=ru.yandex.music)
 * [Работа в России](https://play.google.com/store/apps/details?id=ru.trudvsem)
