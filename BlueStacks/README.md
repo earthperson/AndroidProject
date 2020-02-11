@@ -71,6 +71,7 @@
 * [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 * [Авито: авто, квартиры, услуги, работа, резюме](https://play.google.com/store/apps/details?id=com.avito.android)
 * [Банк Авангард](https://play.google.com/store/apps/details?id=ru.avangard)
+* [Бизнес-мессенджер JivoSite](https://play.google.com/store/apps/details?id=com.jivosite.mobile)
 * [Браузер Opera с бесплатным VPN](https://play.google.com/store/apps/details?id=com.opera.browser)
 * [БУРГЕР КИНГ - Купоны, скидки и акции в ресторанах](https://play.google.com/store/apps/details?id=ru.burgerking)
 * [Википедия](https://play.google.com/store/apps/details?id=org.wikipedia)
