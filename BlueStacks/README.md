@@ -79,6 +79,7 @@
 * [ВсеИнструменты.ру](https://play.google.com/store/apps/details?id=com.notissimus.allinstruments.android)
 * [Гороскопы на каждый день и все знаки зодиака](https://play.google.com/store/apps/details?id=ru.mail.horo.android)
 * [Госуслуги](https://play.google.com/store/apps/details?id=ru.rostel)
+* [Додо Пицца. Доставка пиццы](https://play.google.com/store/apps/details?id=ru.dodopizza.app)
 * [Домашняя правовая энциклопедия](https://play.google.com/store/apps/details?id=garantdpi.ru)
 * [Доставка суши и пиццы "Сакура"](https://play.google.com/store/apps/details?id=com.sakura)
 * [Знакомства Love.ru - сайт знакомств бесплатно](https://play.google.com/store/apps/details?id=com.dating.mylove)
