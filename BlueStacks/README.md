@@ -35,6 +35,7 @@
 * [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass)
 * [KFC: доставка, купоны, рестораны](https://play.google.com/store/apps/details?id=ru.kfc.kfc_delivery)
 * [LovePlanet - знакомства и общение](https://play.google.com/store/apps/details?id=ru.loveplanet.app)
+* [Lovina — общение и знакомства рядом](https://play.google.com/store/apps/details?id=com.lovina.android)
 * [MEGOGO - ТВ, кино, мультфильмы, аудиокниги](https://play.google.com/store/apps/details?id=com.megogo.application)
 * [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
 * [Microsoft Office Mobile](https://play.google.com/store/apps/details?id=com.microsoft.office.officehub)
