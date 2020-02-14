@@ -10,6 +10,7 @@
 * [Cryptography - Collection of ciphers and hashes](https://play.google.com/store/apps/details?id=com.nitramite.cryptography)
 * [Daff Moon Phase (Фазы Луны)](https://play.google.com/store/apps/details?id=com.dafftin.android.moon_phase)
 * [DOSTAЕВСКИЙ — Доставка еды: пицца, роллы, суши](https://play.google.com/store/apps/details?id=ru.dostaevsky.android)
+* [Drops: Изучайте Японский язык бесплатно!](https://play.google.com/store/apps/details?id=com.languagedrops.drops.learn.learning.speak.language.japanese.kanji.katakana.hiragana.romaji.words)
 * [EDS – encrypt your files to keep your data safe](https://play.google.com/store/apps/details?id=com.sovworks.eds.android)
 * [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)
 * [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
