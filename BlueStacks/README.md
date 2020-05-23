@@ -60,6 +60,7 @@
 * [Smart Tools - инструментарий](https://play.google.com/store/apps/details?id=kr.aboy.tools)
 * [Speedtest.net](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)
 * [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community)
+* [Strava Бег и велоспорт – GPS](https://play.google.com/store/apps/details?id=com.strava)
 * [TETRIS Blitz: 2016 Edition](https://play.google.com/store/apps/details?id=com.ea.tetrisblitz_row)
 * [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)
 * [Trillian](https://play.google.com/store/apps/details?id=com.ceruleanstudios.trillian.android)
