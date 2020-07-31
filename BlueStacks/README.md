@@ -109,8 +109,6 @@
 * [Простой диктофон - про](https://play.google.com/store/apps/details?id=com.digipom.easyvoicerecorder.pro)
 * [Работа в России](https://play.google.com/store/apps/details?id=ru.trudvsem)
 * [Работа.ру: Вакансии рядом с домом и поиск работы](https://play.google.com/store/apps/details?id=ru.rabota.app2)
-* [Радиосвязь](https://play.google.com/store/apps/details?id=com.kirlanik1436)
-* [Радиотехника](https://play.google.com/store/apps/details?id=com.do_apps.catalog_744)
 * [Сервисы Google Play для AR](https://play.google.com/store/apps/details?id=com.google.ar.core)
 * [Сервисы Google Play](https://play.google.com/store/apps/details?id=com.google.android.gms)
 * [Синтезатор речи Google](https://play.google.com/store/apps/details?id=com.google.android.tts)
