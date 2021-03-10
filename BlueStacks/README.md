@@ -72,7 +72,6 @@
 * [WhatsApp Messenger](https://play.google.com/store/apps/details?id=com.whatsapp)
 * [Wikiroutes маршруты, автобусы, транспорт](https://play.google.com/store/apps/details?id=info.wikiroutes.android)
 * [Winpopup LAN Messenger](https://play.google.com/store/apps/details?id=com.fomine.winpopuplanmessenger)
-* [YouDo: работа, курьеры, уборка](https://play.google.com/store/apps/details?id=com.sebbia.youdo)
 * [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 * [Авито: авто, квартиры, услуги, работа, резюме](https://play.google.com/store/apps/details?id=com.avito.android)
 * [Банк Авангард](https://play.google.com/store/apps/details?id=ru.avangard)
